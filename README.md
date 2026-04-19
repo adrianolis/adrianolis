@@ -2,10 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianolis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianolis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<div>
+    <a href="https://beacons.ai/adrianolis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianolis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolis&layout=compact&langs_count=16&theme=dark&locale=pt-br"/>
+    </div>
 
 ###
 
