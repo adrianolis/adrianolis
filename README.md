@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adrianolis&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=F75C7E&custom_title=Estatísticas+do+GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolis&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens+mais+usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adrianolis&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=F75C7E&custom_title=Estatísticas+do+GitHub&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolis&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens+mais+usadas&cache_seconds=1800" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adrianolis&theme=tokyonight&hide_border=true&locale=pt_BR)
